@@ -1,3 +1,5 @@
+#HR Analytics - Employee Attrition Performance
+
 The HR Analytics Project is aimed at discovering the intricacies of human resource data in an organization. The goal of this project is to identify patterns and trends that will help the Board make informed decisions, thereby enhancing the overall effectiveness of the organization.
 
 Key Objectives:
